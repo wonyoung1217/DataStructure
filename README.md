@@ -14,4 +14,4 @@ return B
 중첩 for문이 나오므로 : O(n^2)
 
 2. 실습과제 1.2
-Transpose.cpp
+- Transpose.cpp
