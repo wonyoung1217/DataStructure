@@ -10,14 +10,14 @@ private:
   int qSize;
 public:
   CircularQueue(){ 
-    front = -1;
-    rear = -1;
+    front = 0;
+    rear = 0;
     arr = new T[QUEUE_SIZE];
     qSize = QUEUE_SIZE;
   }
   CircularQueue(int size) {
-    front = -1;
-    rear = -1;
+    front = 0;
+    rear = 0;
     arr = new T[size];
     qSize = size;
   }
