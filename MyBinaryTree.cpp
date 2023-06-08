@@ -1,5 +1,5 @@
 #include <iostream>
-#include "MyDinaryTree.h"
+#include "MyBinaryTree.h"
 using namespace std;
 
 void BT_TreePrinter(BT_Node* root){

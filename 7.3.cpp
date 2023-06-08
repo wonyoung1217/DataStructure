@@ -1,5 +1,5 @@
 #include <iostream>
-#include "MyDinaryTree.h"
+#include "MyBinaryTree.h"
 using namespace std;
 
 int main()
